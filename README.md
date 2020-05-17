@@ -1,2 +1,3 @@
 # hello-world
-My first Javascript project repository
+I'm old, but I still love to learn
+
